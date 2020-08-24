@@ -34,3 +34,8 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+h1{
+    background-color: coral;
+    font-size: 40px;
+}
