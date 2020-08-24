@@ -40,3 +40,21 @@ h1{
     font-size: 40px;
     color: cornsilk;
  }
+
+.githupb {
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    font: 24px/200px sans-serif;
+    color: white;
+    background-color: #96ef6f;
+    animation: githupb 12s ease 1s 1 forwards;
+}
+@keyframes githupb {
+    33% {
+        background-color: green;
+    }
+    66% {
+        background-color: #e0d68c;
+    }
+}
